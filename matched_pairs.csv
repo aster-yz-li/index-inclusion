@@ -1,0 +1,192 @@
+﻿treated,control,sector,date
+AVB,PLD,Real Estate,2007-01-10
+MDLZ,SJM,Consumer Defensive,2007-03-30
+JEF,FLG,Financial Services,2007-08-24
+ICE,WBS,Financial Services,2007-09-26
+EXPE,BYD,Consumer Cyclical,2007-10-02
+J,LHX,Industrials,2007-10-26
+CTRA,PTEN,Energy,2007-10-26
+GME,MODG,Consumer Cyclical,2007-12-13
+RRC,OKE,Energy,2007-12-20
+CRM,APH,Technology,2008-09-12
+FAST,RSG,Industrials,2008-09-12
+OI,TOL,Consumer Cyclical,2008-12-31
+HRL,STRA,Consumer Defensive,2009-03-03
+VTR,WELL,Real Estate,2009-03-03
+FTI,CRK,Energy,2009-06-05
+FMC,SMG,Basic Materials,2009-08-19
+V,CADE,Financial Services,2009-12-18
+CLF,RPM,Basic Materials,2009-12-18
+ROST,BKNG,Consumer Cyclical,2009-12-18
+HP,NFG,Energy,2010-02-26
+KMX,URBN,Consumer Cyclical,2010-06-28
+CB,VLY,Financial Services,2010-07-14
+TT,GPN,Industrials,2010-11-17
+FFIV,WOLF,Technology,2010-12-17
+NFLX,WLY,Communication Services,2010-12-17
+NFX,OII,Energy,2010-12-17
+EW,CYH,Healthcare,2011-03-31
+BLK,RGA,Financial Services,2011-04-01
+CMG,GNTX,Consumer Cyclical,2011-04-27
+ACN,LRCX,Technology,2011-07-05
+MOS,IPI,Basic Materials,2011-09-23
+TEL,SMTC,Technology,2011-10-14
+BWA,PII,Consumer Cyclical,2011-12-16
+PRGO,MD,Healthcare,2011-12-16
+DLTR,EPC,Consumer Defensive,2011-12-16
+CCI,REG,Real Estate,2012-03-13
+FOSL,SON,Consumer Cyclical,2012-04-03
+STX,CIEN,Technology,2012-07-02
+LYB,RS,Basic Materials,2012-09-05
+DG,INGR,Consumer Defensive,2012-12-03
+GRMN,VYX,Technology,2012-12-11
+PVH,AEO,Consumer Cyclical,2013-02-15
+REGN,ATR,Healthcare,2013-04-30
+MAC,JLL,Real Estate,2013-05-08
+GM,WSM,Consumer Cyclical,2013-06-06
+DAL,TGI,Industrials,2013-09-10
+VRTX,UTHR,Healthcare,2013-09-20
+AME,KEX,Industrials,2013-09-20
+RIG,NOG,Energy,2013-10-29
+CPRI,DKS,Consumer Cyclical,2013-11-13
+MHK,SGI,Consumer Cyclical,2013-12-23
+BFH,CBOE,Financial Services,2013-12-23
+META,AMCX,Communication Services,2013-12-23
+TSCO,THO,Consumer Cyclical,2014-01-24
+ESS,KRC,Real Estate,2014-04-02
+UAA,SLGN,Consumer Cyclical,2014-05-01
+AMG,PB,Financial Services,2014-07-01
+MLM,RGLD,Basic Materials,2014-07-02
+RCL,BC,Consumer Cyclical,2014-12-05
+HCA,CNC,Healthcare,2015-01-27
+SWKS,DDD,Technology,2015-03-12
+HSIC,OMI,Healthcare,2015-03-18
+AAL,JBLU,Industrials,2015-03-23
+EQIX,OHI,Real Estate,2015-03-23
+SLG,NNN,Real Estate,2015-03-23
+HBI,SCI,Consumer Cyclical,2015-03-23
+O,LAMR,Real Estate,2015-04-07
+JBHT,ACM,Industrials,2015-07-01
+AAP,CRI,Consumer Cyclical,2015-07-08
+SIG,CAKE,Consumer Cyclical,2015-07-29
+UAL,FBIN,Industrials,2015-09-02
+VRSK,CSL,Industrials,2015-10-07
+ILMN,MDRX,Healthcare,2015-11-19
+CHD,THS,Consumer Defensive,2015-12-29
+EXR,DEI,Real Estate,2016-01-19
+CFG,RNR,Financial Services,2016-02-01
+FRT,HIW,Real Estate,2016-02-01
+AWK,WTRG,Utilities,2016-03-04
+FL,CASY,Consumer Cyclical,2016-04-04
+ULTA,SKX,Consumer Cyclical,2016-04-18
+AYI,GGG,Industrials,2016-05-03
+ALK,TTC,Industrials,2016-05-13
+DLR,UNIT,Real Estate,2016-05-18
+LKQ,CBRL,Consumer Cyclical,2016-05-23
+AJG,SEIC,Financial Services,2016-05-31
+TDG,DCI,Industrials,2016-06-03
+LNT,UGI,Utilities,2016-07-01
+MTD,AVNS,Healthcare,2016-09-06
+CHTR,CABO,Communication Services,2016-09-08
+COTY,HAIN,Consumer Defensive,2016-09-30
+IDXX,EHC,Healthcare,2017-01-05
+INCY,GMED,Healthcare,2017-02-28
+SNPS,VSAT,Technology,2017-03-16
+AMD,CGNX,Technology,2017-03-20
+RJF,FHN,Financial Services,2017-03-20
+ARE,MPW,Real Estate,2017-03-20
+IT,SNX,Technology,2017-04-05
+HLT,TXRH,Consumer Cyclical,2017-06-19
+ALGN,PBH,Healthcare,2017-06-19
+ANSS,ARW,Technology,2017-06-19
+EG,EWBC,Financial Services,2017-06-19
+AOS,RRX,Industrials,2017-07-26
+PKG,DAN,Consumer Cyclical,2017-07-26
+RMD,THC,Healthcare,2017-07-26
+MGM,WEN,Consumer Cyclical,2017-07-26
+CDNS,LFUS,Technology,2017-09-18
+NCLH,CHDN,Consumer Cyclical,2017-10-13
+HII,KNX,Industrials,2018-01-03
+IPGP,SABR,Technology,2018-03-07
+TTWO,NYT,Communication Services,2018-03-19
+NKTR,MASI,Healthcare,2018-03-19
+MSCI,CBSH,Financial Services,2018-04-04
+BR,MKSI,Technology,2018-06-18
+DINO,PBF,Energy,2018-06-18
+CPAY,CFR,Financial Services,2018-06-20
+CPRT,WSO,Industrials,2018-07-02
+ANET,BLKB,Technology,2018-08-28
+ROL,VVV,Consumer Cyclical,2018-10-01
+FTNT,TDC,Technology,2018-10-11
+JKHY,RAMP,Technology,2018-11-13
+LW,POST,Consumer Defensive,2018-12-03
+FANG,MUR,Energy,2018-12-03
+CE,NEU,Basic Materials,2018-12-24
+TFX,EXEL,Healthcare,2019-01-18
+ATO,OGE,Utilities,2019-02-15
+MKTX,TREE,Financial Services,2019-07-01
+TMUS,TKO,Communication Services,2019-07-15
+LDOS,OLED,Technology,2019-08-09
+IEX,WWD,Industrials,2019-08-09
+CDW,CACI,Technology,2019-09-23
+NVR,FIVE,Consumer Cyclical,2019-09-26
+LVS,WH,Consumer Cyclical,2019-10-03
+NOW,LITE,Technology,2019-11-21
+WRB,FAF,Financial Services,2019-12-05
+ODFL,OSK,Industrials,2019-12-09
+LYV,ZD,Communication Services,2019-12-23
+ZBRA,CRUS,Technology,2019-12-23
+STE,HQY,Healthcare,2019-12-23
+PAYC,COHR,Technology,2020-01-28
+DPZ,LEA,Consumer Cyclical,2020-05-12
+DXCM,RGEN,Healthcare,2020-05-12
+WST,PEN,Healthcare,2020-05-22
+BIO,CHE,Healthcare,2020-06-22
+TDY,SAIC,Technology,2020-06-22
+TYL,SLAB,Technology,2020-06-22
+ETSY,COLM,Consumer Cyclical,2020-09-21
+TER,SYNA,Technology,2020-09-21
+POOL,TREX,Industrials,2020-10-07
+TSLA,MAT,Consumer Cyclical,2020-12-21
+ENPH,RUN,Technology,2021-01-07
+TRMB,PCTY,Technology,2021-01-21
+NXPI,ASGN,Technology,2021-03-22
+PENN,RH,Consumer Cyclical,2021-03-22
+GNRC,AGCO,Industrials,2021-03-22
+CZR,LAD,Consumer Cyclical,2021-03-22
+PTC,ACIW,Technology,2021-04-20
+CRL,JAZZ,Healthcare,2021-05-14
+MRNA,NEOG,Healthcare,2021-07-21
+TECH,ARWR,Healthcare,2021-08-30
+MTCH,TGNA,Communication Services,2021-09-20
+BRO,AFG,Financial Services,2021-09-20
+DAY,ICUI,Healthcare,2021-09-20
+EPAM,QLYS,Technology,2021-12-14
+SEDG,CVLT,Technology,2021-12-20
+FDS,IBKR,Financial Services,2021-12-20
+NDSN,MIDD,Industrials,2022-02-15
+MOH,BRKR,Healthcare,2022-03-02
+CPT,REXR,Real Estate,2022-04-04
+VICI,EGP,Real Estate,2022-06-08
+KDP,DAR,Consumer Defensive,2022-06-21
+ON,G,Technology,2022-06-21
+CSGP,FR,Real Estate,2022-09-19
+INVH,BRX,Real Estate,2022-09-19
+PCG,HE,Utilities,2022-10-03
+EQT,NOV,Energy,2022-10-03
+TRGP,DTM,Energy,2022-10-12
+ACGL,KNSL,Financial Services,2022-11-01
+FSLR,LSCC,Technology,2022-12-19
+STLD,AA,Basic Materials,2022-12-22
+BG,BJ,Consumer Defensive,2023-03-15
+PODD,NBIX,Healthcare,2023-03-15
+FICO,DT,Technology,2023-03-20
+AXON,LECO,Industrials,2023-05-04
+PANW,ALGM,Technology,2023-06-20
+BX,UNM,Financial Services,2023-09-18
+ABNB,LNW,Consumer Cyclical,2023-09-18
+HUBB,SAIA,Industrials,2023-10-18
+LULU,MUSA,Consumer Cyclical,2023-10-18
+UBER,AMKR,Technology,2023-12-18
+JBL,MTSI,Technology,2023-12-18
+BLDR,OC,Industrials,2023-12-18
